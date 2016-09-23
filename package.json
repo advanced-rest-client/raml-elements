@@ -1,8 +1,8 @@
 {
-  "name": "ui-elements",
-  "version": "1.0.11",
+  "name": "raml-elements",
+  "version": "1.0.1",
+  "description": "A set of elements for Advanced REST Client responsible for RAML integration.",
   "license": "LICENSE.md",
-  "description": "A set of visual elements for Advanced REST Client. Includes elements for working with layout, user input, and selection.",
   "devDependencies": {
     "conventional-github-releaser": "^1.1.1",
     "gulp-conventional-changelog": "^1.1.0",
@@ -12,11 +12,15 @@
     "run-sequence": "^1.1.5",
     "gulp-util": "^3.0.7"
   },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:advanced-rest-client/raml-elements.git"
+  },
   "engines": {
     "node": ">=0.10.0"
   },
   "private": false,
   "main": [
-    "ui-elements.html"
+    "raml-elements.html"
   ]
 }
