@@ -14,7 +14,7 @@
     "url": "git@github.com:advanced-rest-client/raml-elements.git"
   },
   "dependencies": {
-    "raml-js-parser": "advanced-rest-client/raml-js-parser#^1.0.1"
+    "raml-js-parser": "advanced-rest-client/raml-js-parser#^1.0.2"
   },
   "homepage": "https://github.com/advanced-rest-client/raml-elements",
   "authors": [
