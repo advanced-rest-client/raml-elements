@@ -15,7 +15,8 @@
   },
   "dependencies": {
     "raml-js-parser": "advanced-rest-client/raml-js-parser#^1.0.2",
-    "docs-parameters-table": "advanced-rest-client/docs-parameters-table#^1.0.1"
+    "docs-parameters-table": "advanced-rest-client/docs-parameters-table#^1.0.1",
+    "raml-main-entry-lookup": "advanced-rest-client/raml-main-entry-lookup#^1.0.1"
   },
   "homepage": "https://github.com/advanced-rest-client/raml-elements",
   "authors": [
