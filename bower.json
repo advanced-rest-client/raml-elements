@@ -26,7 +26,8 @@
     "raml-documentation-viewer": "advanced-rest-client/raml-documentation-viewer",
     "raml-behaviors": "advanced-rest-client/raml-behaviors#^1.0.1",
     "raml-docs-method-viewer": "advanced-rest-client/raml-docs-method-viewer#^1.0.1",
-    "raml-summary-view": "advanced-rest-client/raml-summary-view#^1.0.1"
+    "raml-summary-view": "advanced-rest-client/raml-summary-view#^1.0.1",
+    "raml-docs-resource-viewer": "advanced-rest-client/raml-docs-resource-viewer#^1.0.1"
   },
   "homepage": "https://github.com/advanced-rest-client/raml-elements",
   "authors": [
