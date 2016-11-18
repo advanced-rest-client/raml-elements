@@ -18,7 +18,7 @@
     "docs-parameters-table": "advanced-rest-client/docs-parameters-table#^1.0.1",
     "raml-main-entry-lookup": "advanced-rest-client/raml-main-entry-lookup#^1.0.1",
     "raml-aware": "advanced-rest-client/raml-aware#^1.0.1",
-    "raml-path-selector": "advanced-rest-client/raml-path-selector#^1.0.2",
+    "raml-path-selector": "advanced-rest-client/raml-path-selector#^1.0.3",
     "raml-path-to-object": "advanced-rest-client/raml-path-to-object#^1.0.4",
     "raml-docs-helpers": "advanced-rest-client/raml-docs-helpers#^1.0.2",
     "raml-docs-response-panel": "advanced-rest-client/raml-docs-response-panel#^1.0.0",
