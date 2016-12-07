@@ -29,7 +29,7 @@
     "raml-summary-view": "advanced-rest-client/raml-summary-view#^1.0.1",
     "raml-docs-resource-viewer": "advanced-rest-client/raml-docs-resource-viewer#^1.0.3",
     "raml-docs-documentation-viewer": "advanced-rest-client/raml-docs-documentation-viewer#^1.0.2",
-    "raml-headers-form": "advanced-rest-client/raml-headers-form#^0.1.1"
+    "raml-headers-form": "advanced-rest-client/raml-headers-form#^0.1.2"
   },
   "homepage": "https://github.com/advanced-rest-client/raml-elements",
   "authors": [
