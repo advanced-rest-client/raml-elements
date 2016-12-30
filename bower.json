@@ -34,7 +34,8 @@
     "raml-request-panel": "advanced-rest-client/raml-request-panel#^0.0.13",
     "raml-request-parameters-editor": "advanced-rest-client/raml-request-parameters-editor#^0.1.1",
     "raml-request-url-editor": "advanced-rest-client/raml-request-url-editor#^0.1.2",
-    "raml-body-editor-panel": "advanced-rest-client/raml-body-editor-panel#^0.1.2"
+    "raml-body-editor-panel": "advanced-rest-client/raml-body-editor-panel#^0.1.2",
+    "raml-docs-code-snippets": "advanced-rest-client/raml-docs-code-snippets#^0.1.1"
   },
   "homepage": "https://github.com/advanced-rest-client/raml-elements",
   "authors": [
