@@ -31,7 +31,7 @@
     "raml-docs-documentation-viewer": "advanced-rest-client/raml-docs-documentation-viewer#^1.0.3",
     "raml-headers-form": "advanced-rest-client/raml-headers-form#^0.1.5",
     "raml-request-headers-editor": "advanced-rest-client/raml-request-headers-editor#^0.1.7",
-    "raml-request-panel": "advanced-rest-client/raml-request-panel#^0.0.16",
+    "raml-request-panel": "advanced-rest-client/raml-request-panel#^0.1.2",
     "raml-request-parameters-editor": "advanced-rest-client/raml-request-parameters-editor#^0.1.8",
     "raml-request-url-editor": "advanced-rest-client/raml-request-url-editor#^0.1.6",
     "raml-body-editor-panel": "advanced-rest-client/raml-body-editor-panel#^0.1.2",
@@ -50,7 +50,7 @@
     "tests"
   ],
   "resolutions": {
-    "raml-request-panel": "^0.0.16",
+    "raml-request-panel": "^0.1.2",
     "raml-documentation-panel": "^2.0.1"
   }
 }
