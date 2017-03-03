@@ -48,9 +48,5 @@
     "bower_components",
     "test",
     "tests"
-  ],
-  "resolutions": {
-    "raml-request-panel": "^0.1.2",
-    "raml-documentation-panel": "^2.0.1"
-  }
+  ]
 }
