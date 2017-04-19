@@ -31,7 +31,7 @@
     "raml-docs-documentation-viewer": "advanced-rest-client/raml-docs-documentation-viewer#^1.0.3",
     "raml-headers-form": "advanced-rest-client/raml-headers-form#^0.2.7",
     "raml-request-headers-editor": "advanced-rest-client/raml-request-headers-editor#^0.2.5",
-    "raml-request-panel": "advanced-rest-client/raml-request-panel#^0.1.32",
+    "raml-request-panel": "advanced-rest-client/raml-request-panel#^0.1.33",
     "raml-request-parameters-editor": "advanced-rest-client/raml-request-parameters-editor#^0.1.14",
     "raml-request-url-editor": "advanced-rest-client/raml-request-url-editor#^0.1.8",
     "raml-body-editor-panel": "advanced-rest-client/raml-body-editor-panel#^0.2.9",
