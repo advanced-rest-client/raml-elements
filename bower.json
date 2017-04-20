@@ -1,6 +1,6 @@
 {
   "name": "raml-elements",
-  "version": "1.0.204",
+  "version": "1.0.205",
   "description": "A set of elements for Advanced REST Client responsible for RAML integration.",
   "keywords": [
     "web-components",
