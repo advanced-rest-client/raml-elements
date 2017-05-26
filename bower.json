@@ -33,7 +33,7 @@
     "raml-request-headers-editor": "advanced-rest-client/raml-request-headers-editor#^0.2.8",
     "raml-request-panel": "advanced-rest-client/raml-request-panel#^0.1.37",
     "raml-request-parameters-editor": "advanced-rest-client/raml-request-parameters-editor#^0.1.21",
-    "raml-request-url-editor": "advanced-rest-client/raml-request-url-editor#^0.1.8",
+    "raml-request-url-editor": "advanced-rest-client/raml-request-url-editor#^0.1.9",
     "raml-body-editor-panel": "advanced-rest-client/raml-body-editor-panel#^0.2.13",
     "raml-docs-code-snippets": "advanced-rest-client/raml-docs-code-snippets#^0.1.2",
     "raml-docs-types-viewer": "advanced-rest-client/raml-docs-types-viewer#^0.0.3",
@@ -53,6 +53,9 @@
   ],
   "resolutions": {
     "raml-docs-types-viewer": "^0.0.3",
-    "raml-js-parser": "^2.0.1"
+    "raml-js-parser": "^2.0.1",
+    "webcomponentsjs": "^v1.0.0",
+    "iron-input": "^2.0.0",
+    "iron-form-element-behavior": "^2.0.0"
   }
 }
