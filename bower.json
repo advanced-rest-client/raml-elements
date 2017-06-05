@@ -25,7 +25,7 @@
     "raml-documentation-panel": "advanced-rest-client/raml-documentation-panel#^2.0.16",
     "raml-documentation-viewer": "advanced-rest-client/raml-documentation-viewer#^0.1.8",
     "raml-behaviors": "advanced-rest-client/raml-behaviors#^1.0.1",
-    "raml-docs-method-viewer": "advanced-rest-client/raml-docs-method-viewer#^0.1.13",
+    "raml-docs-method-viewer": "advanced-rest-client/raml-docs-method-viewer#^0.1.14",
     "raml-summary-view": "advanced-rest-client/raml-summary-view#^1.1.4",
     "raml-docs-resource-viewer": "advanced-rest-client/raml-docs-resource-viewer#^1.0.13",
     "raml-docs-documentation-viewer": "advanced-rest-client/raml-docs-documentation-viewer#^1.0.3",
