@@ -53,12 +53,5 @@
     "tests"
   ],
   "resolutions": {
-    "raml-docs-types-viewer": "^0.1.2",
-    "raml-js-parser": "^2.0.1",
-    "webcomponentsjs": "^v1.0.0",
-    "iron-input": "^2.0.0",
-    "iron-form-element-behavior": "^2.0.0",
-    "raml-annotations-display": "^0.1.1",
-    "raml-request-parameters-editor": "^0.2.2"
   }
 }
