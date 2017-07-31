@@ -29,7 +29,7 @@
     "raml-summary-view": "advanced-rest-client/raml-summary-view#^1.1.8",
     "raml-docs-resource-viewer": "advanced-rest-client/raml-docs-resource-viewer#^1.0.20",
     "raml-docs-documentation-viewer": "advanced-rest-client/raml-docs-documentation-viewer#^1.0.3",
-    "raml-headers-form": "advanced-rest-client/raml-headers-form#^0.3.1",
+    "raml-headers-form": "advanced-rest-client/raml-headers-form#^0.3.2",
     "raml-request-headers-editor": "advanced-rest-client/raml-request-headers-editor#^0.2.12",
     "raml-request-panel": "advanced-rest-client/raml-request-panel#^0.1.41",
     "raml-request-parameters-editor": "advanced-rest-client/raml-request-parameters-editor#^0.2.2",
@@ -54,6 +54,6 @@
   ],
   "resolutions": {
     "raml-json-enhance": "^0.2.8",
-    "raml-headers-form": "^0.3.1"
+    "raml-headers-form": "^0.3.2"
   }
 }
