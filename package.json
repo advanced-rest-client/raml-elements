@@ -1,6 +1,6 @@
 {
   "name": "raml-elements",
-  "version": "1.0.338",
+  "version": "1.0.339",
   "description": "A set of elements for Advanced REST Client responsible for RAML integration.",
   "license": "LICENSE.md",
   "devDependencies": {
