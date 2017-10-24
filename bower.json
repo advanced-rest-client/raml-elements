@@ -37,7 +37,7 @@
     "raml-body-editor-panel": "advanced-rest-client/raml-body-editor-panel#^0.3.4",
     "raml-docs-code-snippets": "advanced-rest-client/raml-docs-code-snippets#^0.1.2",
     "raml-docs-types-viewer": "advanced-rest-client/raml-docs-types-viewer#^0.1.4",
-    "raml-json-enhance": "advanced-rest-client/raml-json-enhance#^0.2.8",
+    "raml-json-enhance": "advanced-rest-client/raml-json-enhance#^0.2.9",
     "raml-annotations-display": "advanced-rest-client/raml-annotations-display#^0.1.5"
   },
   "homepage": "https://github.com/advanced-rest-client/raml-elements",
