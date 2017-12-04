@@ -33,7 +33,7 @@
     "raml-request-headers-editor": "advanced-rest-client/raml-request-headers-editor#^0.3.4",
     "raml-request-panel": "advanced-rest-client/raml-request-panel#^0.5.2",
     "raml-request-parameters-editor": "advanced-rest-client/raml-request-parameters-editor#^0.3.8",
-    "raml-request-url-editor": "advanced-rest-client/raml-request-url-editor#^0.2.2",
+    "raml-request-url-editor": "advanced-rest-client/raml-request-url-editor#^0.2.3",
     "raml-body-editor-panel": "advanced-rest-client/raml-body-editor-panel#^0.3.4",
     "raml-docs-code-snippets": "advanced-rest-client/raml-docs-code-snippets#^0.1.2",
     "raml-docs-types-viewer": "advanced-rest-client/raml-docs-types-viewer#^0.1.4",
